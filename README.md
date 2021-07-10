@@ -8,7 +8,9 @@ The `main.js` file is able to import and execute JavaScript from files in the `m
 
 ## Run the Demo
 
-Serve the files using the VS Code extention [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) by Ritwick Dey, or any other method you prefer.
+Try the demo [here](https://graysonlee123.github.io/javascript-modules-demo/).
+
+To run locally, download the repo and serve the files using the VS Code extention [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) by Ritwick Dey, or any other method you prefer.
 
 ## Browser Support
 
